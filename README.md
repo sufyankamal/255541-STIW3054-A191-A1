@@ -9,9 +9,9 @@ introduction : this assignment is about web scrapping and extract it to excel. t
 
 ![UML DIAGRAM](https://user-images.githubusercontent.com/37336667/67159805-4b84cf00-f37c-11e9-9978-01b135dac505.png)
 
-https://youtu.be/2jYxn_JYE9w
+youtube link : https://youtu.be/2jYxn_JYE9w
 
 references: 
-https://www.tutorialspoint.com/jsoup/jsoup_load_url.htm
-https://ksah.in/introduction-to-web-scraping-with-java/
+https://www.tutorialspoint.com/jsoup/jsoup_load_url.htm\n
+https://ksah.in/introduction-to-web-scraping-with-java/\n
 https://www.youtube.com/watch?v=0s8O7jfy3c0
