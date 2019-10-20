@@ -12,6 +12,8 @@ introduction : this assignment is about web scrapping and extract it to excel. t
 youtube link : https://youtu.be/2jYxn_JYE9w
 
 references: 
-https://www.tutorialspoint.com/jsoup/jsoup_load_url.htm/n
-https://ksah.in/introduction-to-web-scraping-with-java//n
+https://www.tutorialspoint.com/jsoup/jsoup_load_url.htm
+
+https://ksah.in/introduction-to-web-scraping-with-java
+
 https://www.youtube.com/watch?v=0s8O7jfy3c0
